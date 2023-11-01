@@ -1,0 +1,3 @@
+﻿  QuickSort.cpp
+D:\SITC\GTTT\QuickSort\QuickSort\QuickSort.cpp(52,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  QuickSort.vcxproj -> D:\SITC\GTTT\QuickSort\x64\Debug\QuickSort.exe
